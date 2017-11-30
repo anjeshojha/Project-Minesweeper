@@ -6,6 +6,8 @@
 #include <stdlib.h>
 #include <math.h>
 #include <time.h>
+
+//i edited this file to make it better!
 union REGS i, o; //declaring mouse registers.
 int interval=20;
 int row=15;
